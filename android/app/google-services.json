@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671298403295",
+    "project_id": "messaging-860f4",
+    "storage_bucket": "messaging-860f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671298403295:android:8bf18cd91b604e4c69a26a",
+        "android_client_info": {
+          "package_name": "com.naren.secure_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671298403295-v4v7ci6pudit5s36qi4c70ikmnq4k50k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYkOV7I3xX3TfPNB3RiC_u5ht7x6k1HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671298403295-v4v7ci6pudit5s36qi4c70ikmnq4k50k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
